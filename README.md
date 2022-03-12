@@ -4,7 +4,7 @@
 
 <p><em>Senior Technical Consultant at <a href="https://k3des.com/">K3DES</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>
-Financial Freedom Coach <img src="https://media0.giphy.com/media/sBoohCuSRNYv6/giphy.gif" width="30"> 
+Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCuSRNYv6/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: hustlerBoxer](https://img.shields.io/twitter/follow/hustlerBoxer?style=social)](https://twitter.com/hustlerBoxer)
@@ -16,7 +16,7 @@ Financial Freedom Coach <img src="https://media0.giphy.com/media/sBoohCuSRNYv6/g
 const boxer = {
 
   askMeAbout: ['web dev', 'financial freedom', 'gaming'],
-  code: [Javascript, Typescript, HTML, CSS, Rust, C#, SQL, NoSQL],
+  code: [C#, Javascript, Typescript, HTML, CSS, Rust, SQL, NoSQL],
   tools: [React, Svelte, Node, Express, Styled-Components, Jest],
   architecture: ['design system pattern', 'automated', 'TDD'],
   Communities: {
