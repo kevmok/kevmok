@@ -2,7 +2,8 @@
 <h2> Hey, there! <img src="https://media3.giphy.com/media/IQIqjBgwv77rI8DwMX/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-<p><em>Software Engineer at <a href="https://k3des.com/">K3DES</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Software Engineer at <a href="https://www.jambomambo.com/">Jambo Mambo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Customer Success Engineer at <a href="https://www.moveworks.com/">Moveworks</a><img src="https://media.giphy.com/media/64IV8rBSwUlcq2kKfJ/giphy.gif" width="30">
 </br>
 Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCuSRNYv6/giphy.gif" width="30"> 
 </em></p>
