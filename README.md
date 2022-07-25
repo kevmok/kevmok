@@ -17,10 +17,11 @@ Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCu
 const boxer = {
 
   askMeAbout: ['web dev', 'financial freedom', 'gaming'],
-  code: [C#, Javascript, Typescript, HTML, CSS, Rust, SQL, NoSQL],
-  tools: [React, Svelte, Node, Express, Styled-Components, Jest],
-  architecture: ['design system pattern', 'automated', 'TDD'],
+  code: [C#, Javascript, Typescript, Python, HTML, CSS, Rust, SQL],
+  tools: [React, Svelte, Node, Bun, Next.js, Jest],
+  architecture: ['design system pattern', 'automated', 'TDD', 'CD/CI'],
   Communities: {
+                        founder: "Speedy Catalyst",
                         staff: "FlashFund",
                },
  challenge: "I am learning how to write Solana Smart Contracts and build dApps"
