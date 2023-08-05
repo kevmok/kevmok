@@ -22,7 +22,7 @@ const boxer: Developer = {
     founder: ['Speedy Catalyst', 'eFnF'],
     staff: 'FlashFund',
   },
-  challenge: 'I am learning how to do DevOps and microservice architecture with Apache Kafka'
+  challenge: 'I am learning how to do DevOps and microservice architecture with Apache Kafka',
   getMode: () => { return 'Builder Mode' }
 }
 ```
