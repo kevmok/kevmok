@@ -2,7 +2,6 @@
 <h2> Hey, there! <img src="https://media3.giphy.com/media/IQIqjBgwv77rI8DwMX/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-<p><em>Software Engineer at <a href="https://www.jambomambo.com/">Jambo Mambo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p><em>Customer Success Engineer at <a href="https://www.moveworks.com/">Moveworks</a><img src="https://media.giphy.com/media/64IV8rBSwUlcq2kKfJ/giphy.gif" width="30">
 </br>
 Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCuSRNYv6/giphy.gif" width="30"> 
@@ -17,14 +16,14 @@ Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCu
 const boxer = {
 
   askMeAbout: ['web dev', 'financial freedom', 'gaming'],
-  code: [C#, Javascript, Typescript, Python, HTML, CSS, Rust, SQL],
-  tools: [React, Svelte, Node, Bun, Next.js, Jest],
-  architecture: ['design system pattern', 'automated', 'TDD', 'CD/CI'],
+  code: [Javascript, Typescript, Python, C#, HTML, CSS, SQL],
+  tools: [React, Svelte, Node, Vite, Next.js],
+  architecture: ['Microservices', 'Kafka', 'TDD', 'devops'],
   Communities: {
-                        founder: "Speedy Catalyst",
+                        founder: ["Speedy Catalyst", "eFnF"],
                         staff: "FlashFund",
                },
- challenge: "I am learning how to write Solana Smart Contracts and build dApps"
+ challenge: "I am learning how to DevOps and Apache Kafka"
 }
 ```
 
