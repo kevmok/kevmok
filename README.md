@@ -16,14 +16,14 @@ Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCu
 const boxer = {
 
   askMeAbout: ['web dev', 'financial freedom', 'gaming'],
-  code: [Javascript, Typescript, Python, C#, HTML, CSS, SQL],
-  tools: [React, Svelte, Node, Vite, Next.js],
+  code: ['Javascript', 'Typescript', 'Python', 'C#', 'HTML', 'CSS', 'SQL', 'NoSQL'],
+  tools: ['React', 'Svelte', 'Node', 'Vite', 'Next.js'],
   architecture: ['Microservices', 'Kafka', 'TDD', 'devops'],
   Communities: {
-                        founder: ["Speedy Catalyst", "eFnF"],
-                        staff: "FlashFund",
+                        founder: ['Speedy Catalyst', 'eFnF'],
+                        staff: 'FlashFund',
                },
- challenge: "I am learning how to DevOps and Apache Kafka"
+ challenge: 'I am learning how to do DevOps and microservice architecture with Apache Kafka'
 }
 ```
 
