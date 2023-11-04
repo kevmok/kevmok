@@ -30,5 +30,3 @@ const boxer: Developer = {
 <img src="https://media0.giphy.com/media/XGyFuLYCgbDZ8au5P8/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy to chat!</b> Let's make this bread <img src="https://media2.giphy.com/media/Qze6gDuxZt48U/giphy.gif" width="60"> </em>
 
 ---
-![Kevmok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevmok&count_private=true&theme=tokyonight&hide=stars,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevmok&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
