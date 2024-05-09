@@ -13,13 +13,13 @@ Financial Freedom & Investments <img src="https://media0.giphy.com/media/sBoohCu
 ### <img src="https://media4.giphy.com/media/Zz1IkXrd8zlWR1qric/giphy.gif" width="50"> A tad bit more about me...  
 
 ```typescript
-const boxer: Developer = {
-  askMeAbout: ['web dev', 'financial freedom', 'gaming'],
-  code: ['Javascript', 'Typescript', 'Python', 'C#', 'HTML', 'CSS', 'SQL', 'NoSQL'],
+const kevin: Developer = {
+  askMeAbout: ['backend', 'web dev', 'financial freedom', 'gaming'],
+  code: ['Javascript', 'Typescript', 'Python', 'C#', 'Rust', 'HTML', 'CSS', 'SQL', 'NoSQL'],
   tools: ['React', 'Svelte', 'Node', 'Vite', 'Next.js'],
-  architecture: ['Microservices', 'Kafka', 'TDD', 'devops'],
+  architecture: ['Microservices', 'Kafka', 'DevOps'],
   communities: {
-    founder: ['Speedy Catalyst', 'eFnF'],
+    founder: ['eFnF'],
     staff: 'FlashFund',
   },
   challenge: 'I am learning how to do DevOps and microservice architecture with Apache Kafka',
