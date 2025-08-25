@@ -2,7 +2,7 @@
 <h2> Hey, there! <img src="https://media3.giphy.com/media/IQIqjBgwv77rI8DwMX/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-<p><em>Customer Success & Software Engineer at <a href="https://www.moveworks.com/">Moveworks</a><img src="https://media.giphy.com/media/64IV8rBSwUlcq2kKfJ/giphy.gif" width="30">
+<p><em>DevRel at <a href="https://www.moveworks.com/">Moveworks</a><img src="https://media.giphy.com/media/64IV8rBSwUlcq2kKfJ/giphy.gif" width="30">
 </br>
 LOCKED THE F*** IN <img src="https://media0.giphy.com/media/sBoohCuSRNYv6/giphy.gif" width="30"> 
 </em></p>
