@@ -1,7 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/kevmok">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/kevmok?theme=dark" />
+      <img alt="kevmok's commit history" src="https://commit-history.com/embed/kevmok" />
+    </picture>
+  </a>
+</div>
 
-<h2> sup! <img src="https://media3.giphy.com/media/IQIqjBgwv77rI8DwMX/giphy.gif" width="50"></h2>
-<p><em>DevRel at <a href="https://www.moveworks.com/">Moveworks</a><img src="https://media.giphy.com/media/64IV8rBSwUlcq2kKfJ/giphy.gif" width="30">
-</em></p>
 
 [![X: thekevmok](https://img.shields.io/twitter/follow/thekevmok?style=social)](https://x.com/thekevmok)
 [![GitHub kevmok](https://img.shields.io/github/followers/kevmok?label=follow&style=social)](https://github.com/kevmok)
